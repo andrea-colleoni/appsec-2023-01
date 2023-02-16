@@ -1,0 +1,1 @@
+Roslyn version: 4.0.0.0Language version: CSharp7_3"Concurrent execution: disabledöñFile 'C:\Users\andre\Desktop\Temp\Corsi\Application Security\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\obj\Debug\.NETFramework,Version=v4.5.2.AssemblyAttributes.cs' was recognized as generated

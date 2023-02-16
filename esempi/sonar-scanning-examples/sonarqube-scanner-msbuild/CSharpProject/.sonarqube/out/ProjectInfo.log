@@ -1,0 +1,25 @@
+Product projects
+---------------------------------------
+C:\Users\andre\Desktop\Temp\Corsi\Application Security\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplication\SomeConsoleApplication.csproj
+
+
+Test projects
+---------------------------------------
+C:\Users\andre\Desktop\Temp\Corsi\Application Security\sonar-scanning-examples\sonarqube-scanner-msbuild\CSharpProject\SomeConsoleApplicationTest\SomeConsoleApplicationTest.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+
